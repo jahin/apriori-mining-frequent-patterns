@@ -1,0 +1,11 @@
+current id: 1 level: 1 nodecount: 7
+current id: 2 level: 1 nodecount: 3
+current id: 3 level: 1 nodecount: 7
+current id: 4 level: 1 nodecount: 6
+current id: 5 level: 1 nodecount: 7
+current id: 3 level: 2 nodecount: 4
+current id: 4 level: 2 nodecount: 5
+current id: 5 level: 2 nodecount: 6
+current id: 3 level: 2 nodecount: 3
+current id: 4 level: 2 nodecount: 1
+current id: 5 level: 2 nodecount: 1
